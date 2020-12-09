@@ -1,0 +1,14 @@
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\bin\Debug\netcoreapp2.1\Jenkins_EXER_ONE.deps.json
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\bin\Debug\netcoreapp2.1\Jenkins_EXER_ONE.runtimeconfig.json
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\bin\Debug\netcoreapp2.1\Jenkins_EXER_ONE.runtimeconfig.dev.json
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\bin\Debug\netcoreapp2.1\Jenkins_EXER_ONE.dll
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\bin\Debug\netcoreapp2.1\Jenkins_EXER_ONE.pdb
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.csproj.CoreCompileInputs.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.RazorAssemblyInfo.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.RazorAssemblyInfo.cs
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.AssemblyInfoInputs.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.AssemblyInfo.cs
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.RazorTargetAssemblyInfo.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.dll
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.pdb
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\Jenkins_EXER_ONE\obj\Debug\netcoreapp2.1\Jenkins_EXER_ONE.csprojAssemblyReference.cache
