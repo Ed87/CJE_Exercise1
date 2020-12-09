@@ -23,6 +23,16 @@
             <response code="204">Returned if the employee couldn't be found</response>
             <response code="422">Returned when the validation failed</response>
         </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.GetByGender(System.String)">
+            <summary>
+            Action to get an single employee by Sex
+            </summary>
+            <param name="id">Model to get a single employee by Sex</param>
+            <returns>Returns the updated employee</returns>
+            <response code="200">Returned if the employee was retrieved</response>
+            <response code="204">Returned if the employee couldn't be found</response>
+            <response code="422">Returned when the validation failed</response>
+        </member>
         <member name="M:EmployeeAPI.Controllers.EmployeeController.CreateEmployee(EmployeeAPI.Model.Employee)">
             <summary>  
             Action to create a new employee in the database.  

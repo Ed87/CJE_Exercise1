@@ -1,0 +1,15 @@
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\IntegrationTests.deps.json
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\IntegrationTests.runtimeconfig.json
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\IntegrationTests.runtimeconfig.dev.json
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\IntegrationTests.dll
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.csprojAssemblyReference.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.RazorAssemblyInfo.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.RazorAssemblyInfo.cs
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.AssemblyInfo.cs
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\obj\Debug\netcoreapp2.1\IntegrationTests.RazorTargetAssemblyInfo.cache
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
