@@ -48,5 +48,10 @@ namespace EmployeeAPI.Repository
         {
             _dbContext.SaveChanges();
         }
+
+        public Employee GetEmployeeByGender(string employeeGender)
+        {
+            return _dbContext.Employees.Find(employeeGender);
+        }
     }
 }

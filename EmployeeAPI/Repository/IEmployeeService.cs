@@ -15,6 +15,8 @@ namespace EmployeeAPI.Repository
 
         Employee GetEmployeeById(int employeeId);
 
+        Employee GetEmployeeByGender(string employeeGender);
+
         void Save();
 
     }

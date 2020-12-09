@@ -60,7 +60,26 @@ namespace EmployeeAPI.Controllers
             return new OkObjectResult(employee);
         }
 
-       
+
+        /// <summary>
+        /// Action to get an single employee by Sex
+        /// </summary>
+        /// <param name="id">Model to get a single employee by Sex</param>
+        /// <returns>Returns the updated employee</returns>
+        /// <response code="200">Returned if the employee was retrieved</response>
+        /// <response code="204">Returned if the employee couldn't be found</response>
+        /// <response code="422">Returned when the validation failed</response>
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status422UnprocessableEntity)]
+        [HttpGet("{gender}", Name = "Get")]
+        public IActionResult GetByGender(string gender)
+        {
+            var employee = _employeeService.GetEmployeeByGender(gender);
+            return new OkObjectResult(employee);
+        }
+
+
         /// <summary>  
         /// Action to create a new employee in the database.  
         /// </summary>  
