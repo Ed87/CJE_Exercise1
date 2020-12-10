@@ -40,7 +40,6 @@ C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcore
 C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\EmployeeAPI.csproj.CoreCompileInputs.cache
 C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\EmployeeAPI.RazorAssemblyInfo.cache
 C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\EmployeeAPI.RazorAssemblyInfo.cs
-C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\EmployeeAPI.AssemblyInfoInputs.cache
 C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\EmployeeAPI.AssemblyInfo.cs
 C:\Users\tshumae.FBC\source\repos\Jenkins_EXER_ONE\EmployeeAPI\obj\Debug\netcoreapp2.1\EmployeeAPI.RazorTargetAssemblyInfo.cache

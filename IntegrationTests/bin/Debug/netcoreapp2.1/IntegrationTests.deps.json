@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "add892aa26e2d1763b7465c4d0b0c54f1dd08d7e"
+    "signature": "00ad9be3a94a4fa38168b36a839274bf89ecbd33"
   },
   "compilationOptions": {
     "defines": [
@@ -25,9 +25,9 @@
       "IntegrationTests/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
           "SpecFlow": "3.0.199",
+          "SpecFlow.Tools.MsBuild.Generation": "3.0.199",
           "SpecFlow.xUnit": "3.0.199",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
@@ -64,7 +64,6 @@
           "lib/netstandard2.0/Gherkin.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
       "Microsoft.NET.Test.Sdk/15.0.0": {
         "dependencies": {
           "Microsoft.TestPlatform.TestHost": "15.0.0"
@@ -522,6 +521,11 @@
           "lib/netstandard2.0/TechTalk.SpecFlow.dll": {}
         }
       },
+      "SpecFlow.Tools.MsBuild.Generation/3.0.199": {
+        "dependencies": {
+          "SpecFlow": "3.0.199"
+        }
+      },
       "SpecFlow.xUnit/3.0.199": {
         "dependencies": {
           "SpecFlow": "3.0.199",
@@ -922,7 +926,7 @@
           "Microsoft.AspNetCore.NodeServices": "2.1.1",
           "Microsoft.AspNetCore.Owin": "2.1.1",
           "Microsoft.AspNetCore.Razor": "2.1.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "Microsoft.AspNetCore.Razor.Design": "2.1.1",
           "Microsoft.AspNetCore.Razor.Language": "2.1.1",
           "Microsoft.AspNetCore.Razor.Runtime": "2.1.1",
           "Microsoft.AspNetCore.ResponseCaching": "2.1.1",
@@ -1508,7 +1512,7 @@
           "Microsoft.AspNetCore.Mvc.RazorPages": "2.1.1",
           "Microsoft.AspNetCore.Mvc.TagHelpers": "2.1.1",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.1.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "Microsoft.AspNetCore.Razor.Design": "2.1.1",
           "Microsoft.Extensions.Caching.Memory": "2.1.1",
           "Microsoft.Extensions.DependencyInjection": "2.1.1"
         },
@@ -1711,6 +1715,9 @@
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
         },
+        "compileOnly": true
+      },
+      "Microsoft.AspNetCore.Razor.Design/2.1.1": {
         "compileOnly": true
       },
       "Microsoft.AspNetCore.Razor.Language/2.1.1": {
@@ -3760,13 +3767,6 @@
       "path": "gherkin/6.0.0",
       "hashPath": "gherkin.6.0.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
-      "path": "microsoft.aspnetcore.razor.design/2.1.2",
-      "hashPath": "microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
-    },
     "Microsoft.NET.Test.Sdk/15.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3850,6 +3850,13 @@
       "sha512": "sha512-fg8mxIdyxDjVnyWTSpo1wT8QTBk2mlLjjTcLzpck3AGZ5Pp0ELVWHyfU8YO7qAQkFU2fFpzO8edpJRhQDl57Aw==",
       "path": "specflow/3.0.199",
       "hashPath": "specflow.3.0.199.nupkg.sha512"
+    },
+    "SpecFlow.Tools.MsBuild.Generation/3.0.199": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aQr9m0yT/OFF4yCEoo9CcIefNZeDTPnNNBzgCJbYifz7unfDggAUtuQYFzZkwVMXOdUCgFpMDKZptuabGHI7Jw==",
+      "path": "specflow.tools.msbuild.generation/3.0.199",
+      "hashPath": "specflow.tools.msbuild.generation.3.0.199.nupkg.sha512"
     },
     "SpecFlow.xUnit/3.0.199": {
       "type": "package",
@@ -4494,6 +4501,13 @@
       "sha512": "sha512-2yYunEgYC7hOyasvMiiH+a8250l+l1R79jB6VarZ6I8fiXDNCrJ/mEEn9TS0vDidAzesOshFigepa6+qI5Cb0w==",
       "path": "microsoft.aspnetcore.razor/2.1.1",
       "hashPath": "microsoft.aspnetcore.razor.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Razor.Design/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1XHObHLx6A0/57ZmLG9gfKMO/Z/gQjRXPFWQDMlPZGYwcfgufvSdmI2+RYvR5DGkbba9HIHC35ClNQ2yVNIohw==",
+      "path": "microsoft.aspnetcore.razor.design/2.1.1",
+      "hashPath": "microsoft.aspnetcore.razor.design.2.1.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/2.1.1": {
       "type": "package",
